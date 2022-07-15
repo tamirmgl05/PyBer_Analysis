@@ -24,4 +24,5 @@ Results:
 Summary:
 
 ° The total revenue is the highest in Urban area. 
-
+° The cost of per ride is more than $10 in Rural area than Urban area. This will decrease the demand for using ride share in the rural area. 
+° 
