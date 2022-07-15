@@ -15,13 +15,13 @@ Results:
 
 ![Pyber_fare_summary](https://user-images.githubusercontent.com/107653012/179315333-922232fe-f51b-4591-947a-234a0cd70d27.png)
 
-• The line chart above shows the total fare by city type between January 1, 2019 and April 29, 2019. The total fare 
- 
+• The line chart above shows the total fare by city type between January 1, 2019 and April 29, 2019. The total fares for the urban area was the highest at the end of the February and the beginning of the March. 
 
-• On the other hand, in the Rural area there are more demand for drivers. Thus, average fare per driver($55.49) is way more compared to Suburban($39.50) and Urban($16.57) areas.  
+• The total fares for the suburban area was the highest at the end of the February just like urban area. 
  
+• Unlike urban and suburban areas, the total fares for the rural area reached it's highest rate in April, 2019. 
 
 Summary:
 
+° The total revenue is the highest in Urban area. 
 
-There is a statement summarizing three business recommendations to the CEO for addressing any disparities among the city types. (4 pt)
